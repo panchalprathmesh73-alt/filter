@@ -26,3 +26,6 @@ cl(result2);
 let result3=companies.filter((comp1)=>{
     return (comp1.start >=1980 && comp1.start <=1989)
 });
+//////
+
+console.log("HEllO")
